@@ -5,7 +5,7 @@
 
 ## This is a super simple TodoList App built using React.js and styled using Vanilla CSS.
 
-You can view a live demo of the project here: Link
+You can view a live demo of the project here: <a href="https://todo-vitereact-app.netlify.app/">Live Link</a>
 
 ## 😃 Features:
 
