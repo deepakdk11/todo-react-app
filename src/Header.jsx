@@ -21,7 +21,7 @@ function Header(){
                 </div>
             </div>
             <h1>TO-DO-LIST</h1>
-            <a href="#" target="_blank"><FaGithub size={30} /></a>
+            <a href="https://github.com/deepakdk11/todo-react-app" target="_blank"><FaGithub size={30} /></a>
             <img src={img} alt="Hills" />
             <img className="img2" src={img2} alt="Hills" />
             
