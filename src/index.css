@@ -1,0 +1,20 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: "Rubik", sans-serif;
+}
+
+html{
+
+    background-color: whitesmoke;
+}
+
+footer{
+    width: 100%;
+    padding: 5px;
+    text-align: center;
+    color: White;
+    background-color: rgb(37, 36, 36);
+    position: fixed;
+    bottom: 0px;
+}
